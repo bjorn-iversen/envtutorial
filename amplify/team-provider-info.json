@@ -16,5 +16,23 @@
         "envoneacba83f9": {}
       }
     }
+  },
+  "sandbox": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-envone-sandbox-120622-authRole",
+      "UnauthRoleArn": "arn:aws:iam::400993891727:role/amplify-envone-sandbox-120622-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::400993891727:role/amplify-envone-sandbox-120622-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-envone-sandbox-120622-deployment",
+      "UnauthRoleName": "amplify-envone-sandbox-120622-unauthRole",
+      "StackName": "amplify-envone-sandbox-120622",
+      "StackId": "arn:aws:cloudformation:us-west-2:400993891727:stack/amplify-envone-sandbox-120622/1d788430-f73b-11ea-9b10-06765f04f1fc",
+      "AmplifyAppId": "d2d4nfo89ts7jr"
+    },
+    "categories": {
+      "auth": {
+        "envoneacba83f9": {}
+      }
+    }
   }
 }
