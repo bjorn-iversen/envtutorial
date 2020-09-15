@@ -1,0 +1,20 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-envone-prod-115614-authRole",
+      "UnauthRoleArn": "arn:aws:iam::400993891727:role/amplify-envone-prod-115614-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::400993891727:role/amplify-envone-prod-115614-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-envone-prod-115614-deployment",
+      "UnauthRoleName": "amplify-envone-prod-115614-unauthRole",
+      "StackName": "amplify-envone-prod-115614",
+      "StackId": "arn:aws:cloudformation:us-west-2:400993891727:stack/amplify-envone-prod-115614/b3131430-f739-11ea-90cc-06180d91dbc9",
+      "AmplifyAppId": "d2d4nfo89ts7jr"
+    },
+    "categories": {
+      "auth": {
+        "envoneacba83f9": {}
+      }
+    }
+  }
+}
